@@ -1,2 +1,1 @@
-# 911-script
-911-script
+911 COMMAND IS /911
